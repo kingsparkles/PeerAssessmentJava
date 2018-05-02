@@ -1,3 +1,4 @@
+package PeerAssessmentApplication;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Vector;
@@ -6,9 +7,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JTextArea;
 import javax.swing.table.TableCellRenderer;
 
-
-
-public class Calculation extends main{
+public class Calculation extends MainUI{
 		int rowcount = table.getModel().getRowCount();
 		rmap = new HashMap<String, StudentScore>();
 		if (rowcount > 1) {

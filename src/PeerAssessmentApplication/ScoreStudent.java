@@ -1,3 +1,4 @@
+package PeerAssessmentApplication;
 
 public class ScoreStudent {
 	private String id;
