@@ -5,5 +5,14 @@
 	<classpathentry exported="true" kind="lib" path="lib/itextpdf-5.0.6.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/pdfbox-1.5.0.jar"/>
 	<classpathentry kind="lib" path="lib/swt.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/xbean.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface-3.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
